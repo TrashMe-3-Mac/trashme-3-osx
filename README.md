@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/trashme-3">  
+<a href="https://tubus-jubus-apps.github.io/.github/trashme-3">  
 <img src="https://img.shields.io/badge/💻_GET_TrashMe_3-orange?style=for-the-badge&logo=apple" alt="GET TrashMe 3">  
 </a>  
 </div>
